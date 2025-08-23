@@ -1,2 +1,17 @@
-# TapiaAndres-CGeIHC_Grupo13
-Control de versiones de las Practicas del laboratorio de Computación Grafica E Interacción Humano-Computadora Tapia Garcia Andrés
+# Laboratorio de Computación Gráfica e Interacción Humano-Computadora  
+
+## Alumno  
+**Tapia García Andrés**  
+
+## Grupo  
+**13**  
+
+## Descripción  
+Repositorio para el manejo y control de versiones de las prácticas del laboratorio.  
+
+---
+
+### Información adicional  
+- **Profesor:** ING. JOSE ROQUE ROMAN GUADARRAMA
+- **Facultad:** Facultad de Ingeniería, UNAM  
+- **Semestre:** 2026-1  
