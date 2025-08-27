@@ -7,15 +7,15 @@
 
 ## Laboratorio de Computaci√≥n Gr√°fica e Interacci√≥n Humano-Computadora  
 
-# Ì≥ë Reporte de Pr√°ctica N¬∫ 01  
+#  Version: Pr√°ctica N¬∫ 01  
 
-### Ì±§ Datos del Alumno
+### Datos del Alumno
 - **Nombre completo:** Tapia Garc√≠a Andr√©s  
 - **N√∫mero de cuenta:** 320252367  
 - **Grupo de laboratorio:** 13  
 - **Grupo de teor√≠a:** 06  
 
-### Ì≥Ö 
+---
 - **Semestre:** 2026-1  
 - **Fecha de entrega l√≠mite:** 28/08/2025  
 
