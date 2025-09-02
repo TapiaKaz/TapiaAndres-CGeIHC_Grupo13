@@ -17,5 +17,5 @@
 
 --- 
 - **Semestre:** 2026-1  
-- **Fecha de entrega límite:** 28/08/2025  
+- **Fecha de entrega límite:** 04/09/2025  
 
