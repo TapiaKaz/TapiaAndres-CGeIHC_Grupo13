@@ -15,7 +15,7 @@ Window::Window(GLint windowWidth, GLint windowHeight)
 	height = windowHeight;
 	muevex = 2.0f;
 	helicopterx = 0.0f;
-	navi = true;
+	spaceState = false;
 	for (size_t i = 0; i < 1024; i++)
 	{
 		keys[i] = 0;
@@ -122,7 +122,7 @@ void Window::ManejaTeclado(GLFWwindow* window, int key, int code, int action, in
 	if (key == GLFW_KEY_H) theWindow->helicopterx += 1.0; // Agregado para mov de helicoptero
 	if (key == GLFW_KEY_J) theWindow->helicopterx -= 1.0; // Agregaro para mov de helicoptero
 
-	if (key == GLFW_KEY_SPACE && action == GLFW_PRESS) theWindow->navi = !(theWindow-> navi);
+	if (key == GLFW_KEY_SPACE && action == GLFW_PRESS) theWindow->spaceState = !(theWindow-> spaceState);
 	
 	if (key >= 0 && key < 1024)
 	{

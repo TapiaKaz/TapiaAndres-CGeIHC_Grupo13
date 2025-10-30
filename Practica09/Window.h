@@ -23,7 +23,8 @@ public:
 	GLfloat getMovimientoAuto() { return movimientoAuto; } // funcion setter agregada para marcar la dirección del movimiento del auto que nos da el teclado
 																								//las luces cuando se precione una tecla
 
-	GLboolean getEstadoNavi() { return navi; } // funcion para retornar si se preciono espacio o no
+	GLboolean getState() { return spaceState; }
+
 	~Window();
 private: 
 	GLFWwindow *mainWindow;
@@ -37,7 +38,7 @@ private:
 	GLfloat yChange;
 	GLfloat muevex, helicopterx; // Agregando variable para el mov del helicoptero
 	GLfloat movimientoAuto; // Agregado para saber cuando el usuario apreciona alguna tecla
-	GLboolean navi;
+	GLboolean spaceState;
 	bool mouseFirstMoved;
 	static void ManejaTeclado(GLFWwindow* window, int key, int code, int action, int mode);
 	static void ManejaMouse(GLFWwindow* window, double xPos, double yPos);
