@@ -1,0 +1,24 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 2
+
+newmtl material-0151D5D9
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd clsouth_kabe_01_1A840.png
+
+newmtl material-0209F83C
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd clsouth_kabe_05_27CC0.png
